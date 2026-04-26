@@ -1,6 +1,6 @@
 # My First Project
 
-This is my first GitHub project.
+This is my first GitHub project. Basics of Git and GitHub.
 
 ## Features
 
